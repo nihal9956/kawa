@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kawa/static/css/main.ae34f69c.chunk.css",
+    "main.js": "/kawa/static/js/main.17c86651.chunk.js",
+    "main.js.map": "/kawa/static/js/main.17c86651.chunk.js.map",
+    "runtime-main.js": "/kawa/static/js/runtime-main.5a95700f.js",
+    "runtime-main.js.map": "/kawa/static/js/runtime-main.5a95700f.js.map",
+    "static/css/2.081f420c.chunk.css": "/kawa/static/css/2.081f420c.chunk.css",
+    "static/js/2.8dac23e2.chunk.js": "/kawa/static/js/2.8dac23e2.chunk.js",
+    "static/js/2.8dac23e2.chunk.js.map": "/kawa/static/js/2.8dac23e2.chunk.js.map",
+    "index.html": "/kawa/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/kawa/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.ae34f69c.chunk.css.map": "/kawa/static/css/main.ae34f69c.chunk.css.map",
+    "static/js/2.8dac23e2.chunk.js.LICENSE.txt": "/kawa/static/js/2.8dac23e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a95700f.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.8dac23e2.chunk.js",
+    "static/css/main.ae34f69c.chunk.css",
+    "static/js/main.17c86651.chunk.js"
+  ]
+}
