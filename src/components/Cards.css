@@ -1,0 +1,8 @@
+.card {
+  margin-top: 1.2rem;
+  cursor: pointer;
+}
+.active {
+  background-color: #a259ff !important;
+  color: white !important;
+}
